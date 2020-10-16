@@ -1,0 +1,88 @@
+
+body {
+  padding-top: 56px;
+  height: 100%;
+}
+.img-button{
+	position: absolute;
+	top: 90%;
+	left: 90%;
+}
+.button-men{
+	position: absolute;
+	top: 80%;
+	left: 30%;
+	background-color: white;
+	text-align: center;
+	width: 120px;
+	height: 28px;
+}
+.button-men p{
+	text-decoration: none;
+	color: black;
+	font-size: 13px;
+	padding-top: 4px;
+	font-weight: bold;
+}
+.button-women p{
+	text-decoration: none;
+	color: black;
+	font-size: 13px;
+	padding-top: 4px;
+	font-weight: bold;
+}
+.button-women{
+	position: absolute;
+	top: 80%;
+	left: 53%;
+	background-color: white;
+	text-align: center;
+	width: 120px;
+	height: 28px;
+}
+.footer{
+	display: flex;
+	justify-content: center;
+	background-color:  #2b2b2b;
+	color: white;
+	padding: 15px 15px;
+	width: 100%;
+   	bottom:0;
+}
+.footer div{
+	display: block;
+	text-align: center;
+}
+.about-us-link{
+	background-color: #89afcc;
+	padding-left: 35px;
+	padding-top: 10px; 
+	margin-top: 3px;
+	height: 45px;
+	width: 100%;
+}
+.about-us-link a{
+	color: #023e6b;
+}
+.about-us-link:hover{
+	text-decoration: none;
+	background-color: white;
+}
+.about-heading-font{
+	color: #023e6b;
+	margin-bottom: 35px;
+}
+.about-heading6-font{
+	color: #023e6b;
+	margin-bottom: 15px;
+}
+.about-hr{
+	border-top: 1px dotted blue;
+}
+.link{
+	text-decoration: none;
+	color: black; 
+}
+a:hover{
+	text-decoration: none;
+}
